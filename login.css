@@ -1,0 +1,15 @@
+html,body{
+    background-image: url(photos/pexels-pixabay-326278.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+   
+    
+    }
+
+.form-group{
+    margin-bottom: 15px;
+    color:  #FFC312;
+    font-size: larger;
+          
+            }

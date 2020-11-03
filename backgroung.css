@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css?family=Numans');
+
+html,body{
+background-image: url(photos/hotel_1.jpg);
+background-size: cover;
+background-repeat: no-repeat;
+height: 80%;
+font-family: 'Numans', sans-serif;
+
+}
